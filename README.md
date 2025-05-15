@@ -2,6 +2,11 @@
 
 A responsive and minimal task management web application built with **React.js** and **Django REST Framework**, featuring full **CRUD** operations and a sleek GitHub-style **dark mode** interface.
 
+## 🚀 Live Demo
+
+Access the live frontend here:  
+🔗 [https://fullstack-todo-app-eosin.vercel.app](https://fullstack-todo-app-eosin.vercel.app)
+
 ## 🔧 Tech Stack
 
 ### Frontend:
