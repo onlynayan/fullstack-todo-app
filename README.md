@@ -73,10 +73,9 @@ Runs on: `http://localhost:3000`
 
 ---
 
-## 🌟 Demo & Screenshots
-> Add screenshots here or a deployed link if you host it (e.g., on Vercel + Render)
+## 🧑‍💻 Author
 
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+**Nayan Das**  
+📧 [nayan271997@gmail.com](mailto:nayan271997@gmail.com)  
+🔗 [GitHub](https://github.com/onlynayan)  
+🔗 [Portfolio](https://onlynayan.github.io/portfolio)
