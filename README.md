@@ -75,7 +75,7 @@ Runs on: `http://localhost:3000`
 
 ## 🧑‍💻 Author
 
-**Nayan Das**  
-📧 [nayan271997@gmail.com](mailto:nayan271997@gmail.com)  
+**Nayan Das** 
+ 
 🔗 [GitHub](https://github.com/onlynayan)  
 🔗 [Portfolio](https://onlynayan.github.io/portfolio)
